@@ -29,5 +29,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phoenixheron1&" alt="phoenixheron1" /></p>
 
-##<h1 align="center">Github Stats</h1>
+<h1 align="center">Github Stats</h1>
 ![image](https://user-images.githubusercontent.com/85755985/151773172-3635545f-6de6-4c59-bd5f-d11b7d182d2d.png)
