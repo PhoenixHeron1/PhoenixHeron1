@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sumit</h1>
+<h1 align="center">Hi 👋, I'm Phoenix</h1>
 <h3 align="center">A passionate software programmer who has taken his first few steps in the world of programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phoenixheron1&label=Profile%20views&color=0e75b6&style=flat" alt="phoenixheron1" /> </p>
