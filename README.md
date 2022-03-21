@@ -7,17 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **improving my Java skills and GUI designing**
-
-- 🌱 I’m currently learning **Java**
-
-- 👯 I’m looking to collaborate on **making a minecraft server of my own. But due to busy schedule and exams approaching I am not getting enough time.**
-
-- 📫 How to reach me **sumitkumar1507@outlook.in**
+- 🌱 I’m a **Python** dev but am not a big fan of it. Planning to switch to some other language, probably to java or c++.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/sumit_1507_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumit_1507_" height="30" width="40" /></a>
+<a href="https://www.instagram.com/realphoenixheron/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumit_1507_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
