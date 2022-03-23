@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m a **Python** dev but am not a big fan of it. Planning to switch to some other language, probably to java or c++.
+- 🌱 I’m a **Python** dev. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
